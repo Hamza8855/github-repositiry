@@ -13,4 +13,9 @@ function age(){
 }
 
 age();
-let gg = "hj";
+
+function age18(age){
+    return age<18;
+
+}
+console.log(age18(15));
