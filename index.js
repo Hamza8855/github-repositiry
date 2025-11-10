@@ -19,3 +19,7 @@ function age18(age){
 
 }
 console.log(age18(15));
+
+function NewFeatureAdd(){
+    console.log(`my name id${"Hamza"}`)
+}
