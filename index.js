@@ -32,4 +32,5 @@ function NewFeatureAdd2(){
 
 function NewBranche1(){
     console.log(NewBranche1)
+    console.log(NewBranche1)
 }
