@@ -29,3 +29,7 @@ function NewFeatureAdd(){
 function NewFeatureAdd2(){
     console.log(`my name id${"Hamza"}`)
 }
+
+function NewBranche1(){
+    console.log(NewBranche1)
+}
